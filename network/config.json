@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Densu Associates"
+  },
+  "text": {
+    "more": "This map shows the  connections BDS respondents noted to other BDS respondents listed in the survey over the last 12 months.  \nCircle size (nodes) are based on number of contacts.  \nCircle color shows the sectors these BDS work in (this is broad).\nThe color of the connecting lines shows the frequency of contact.\n\nNotes:\nThe prominence of linkages with government organizations, government programs, and donors and NGOs in the ecosystem. GLA 11 (MOFA), GLA 7 (GRA), GLA 4(District Assemblies), GLA 14 (Registrar General), GLA 6 8 (Ghana Standards Board); the Rural Enterprise Program (GP11) NGO 22 (USAID) and F34 (USAID finance).  Even the two skills training BDS that connected with other BDS are donors (ST28 is GIZ) and Government (ST15).\nLinkages amongst individual or private sector BDS is much more limited.  Only YARA (IS28) appears to be connected in.\nMore than 40% of the BDS’s connecting with another BDS say they connect monthly.  No frequency of connection pattern is readily visible, although several of the government agencies and programs seem to have monthly contact.  One off contact (30% of collaborations) seem common amongst those BDS’s at the periphery—suggesting perhaps individual contact amongst individual BDS’s that may be simply introductory or brief.  \n6 (7%) of BDS respondents reported no contact with other BDS\n\nGoG has prioritized support for MSMEs in a range of policies.  The recent MSME policy also recognizes the important potential for youth and women.\nBDS are seen as supply-driven, silo’d, give priority to larger enterprises\n\n(Somji et al. 2021)\n(Nathan Associates 2022)\n(Ministry of Trade and Industry (MoTI) 2019)\n(Sumner, Jimah, and Essah 2022)\n(Britt et al. 2020)\n(Dadzie, Fumey, and Namara 2020)\n\n",
+    "intro": "BDS-BDS links and frequency of contact  ",
+    "title": "BDS-BDS links and frequency of contact  "
+  },
+  "legend": {
+    "edgeLabel": "Frequency of collaboration",
+    "colorLabel": "type",
+    "nodeLabel": "MSME and BDS collaboration"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "name",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "name"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
