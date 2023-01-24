@@ -9,12 +9,12 @@
   },
   "text": {
     "more": "\n\n",
-    "intro": "Female MSME - BDS links and frequency of contact  ",
+    "intro": "Female MSME -  BDS links and frequency of contact  ",
     "title": "Female MSME - BDS links and frequency of contact  "
   },
   "legend": {
     "edgeLabel": "Frequency of collaboration",
-    "colorLabel": "Red: Finance, Pink: NGO, Blue: Skills training, Cyan: Market access, Lemon green: Gov\u0027t Programs \u0026 Initiatives, Orange: Gov\u0027t \u0026 Local Authorities, Burgundy: Consulting, Green: Input supply",
+    "colorLabel": "Type of collaboration",
     "nodeLabel": "Female MSME and BDS collaboration"
   },
   "features": {
